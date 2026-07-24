@@ -1,6 +1,3 @@
-# Sistema-Turismo
-Aplicación de turismo en SwiftUI y Firebase con autenticación, modo invitado, gestión de destinos, comentarios, imágenes, mapas, clima y arquitectura MVVM y muchas funciones mas.
-
 
 # 🌍 Sistema Turismo
 
@@ -36,26 +33,6 @@ Aplicación móvil desarrollada con **SwiftUI** y **Firebase** para descubrir, c
 - Weather API
 - MVVM (Model-View-ViewModel)
 - Xcode
-
----
-
-## 📸 Capturas de pantalla
-
-| Inicio de sesión | Inicio |
-|------------------|---------|
-| <img src="screenshots/login.png" width="250"> | <img src="screenshots/home.png" width="250"> |
-
-| Explorar destinos | Detalle del destino |
-|-------------------|---------------------|
-| <img src="screenshots/destinos.png" width="250"> | <img src="screenshots/detalle.png" width="250"> |
-
-| Crear destino | Perfil |
-|----------------|---------|
-| <img src="screenshots/crear-destino.png" width="250"> | <img src="screenshots/perfil.png" width="250"> |
-
-| Mapa | Comentarios |
-|------|-------------|
-| <img src="screenshots/mapa.png" width="250"> | <img src="screenshots/comentarios.png" width="250"> |
 
 ---
 
